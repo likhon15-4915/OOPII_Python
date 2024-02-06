@@ -1,2 +1,1 @@
-# Python
-OOPII
+OOPII Lab class works
