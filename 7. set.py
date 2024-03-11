@@ -17,4 +17,5 @@ print(max(numbers))
 print(min(numbers))
 print(sum(numbers))
 print(sorted(numbers))
-
+y=enumerate(numbers)
+print(list(y))
